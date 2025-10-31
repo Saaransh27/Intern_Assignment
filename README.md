@@ -15,9 +15,4 @@ This project provides a modular Python solution for **optimizing marketing budge
 
 #### Prerequisites
 
-pandas
-numpy
-scipy 
-scikit-learn 
-matplotlib 
-seaborn
+please install the requirements.txt file
